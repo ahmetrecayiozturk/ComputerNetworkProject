@@ -96,12 +96,12 @@ This packet shows the transfer of a question from the server to the client, and 
 <img width="1500" height="457" alt="image" src="https://github.com/user-attachments/assets/1937ab60-8401-4714-a3a9-c8f7763b99de" />
 
 
-#### 3. Audience Joker Request Packet (Joker Server)
+#### 2. Audience Joker Request Packet (Joker Server)
 This packet demonstrates the audience lifeline request being processed by the joker server and the response sent back.
 <img width="1500" height="721" alt="image" src="https://github.com/user-attachments/assets/549bb771-3b44-4f1a-a5c4-7a2d651d2294" />
 
 
-#### 4. Program Exit
+#### 3. Program Exit
 This image shows the end of the program.
 <img width="1500" height="439" alt="image" src="https://github.com/user-attachments/assets/fc580c7d-b2cc-474c-8efa-25d278cc956d" />
 
